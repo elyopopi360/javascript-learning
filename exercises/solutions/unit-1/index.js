@@ -39,6 +39,9 @@ function mostrarDatos(inputData) {
         'F': 'Female',
     }
 
+    console.log(inputData.dateBirdParsed)
+    console.log(inputData.dateBirdParsed.ticks)
+
     console.info(`Hello ${inputData.name}, with ${genders[inputData.gender]} gender. You're ${years} old.`)
 }
 
