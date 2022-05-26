@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "moment": "^2.29.3",
+    "moment-strftime": "^0.5.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
